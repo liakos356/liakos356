@@ -36,6 +36,43 @@ Welcome to my GitHub realm, where code, creativity, and a hint of humor collide.
 - Participation in the 14th International Conference on "Computer Graphics and Artificial Intelligence".
 - MOSES Autonomous tugboat swarm operation: Operational scenarios, requirements, and architecture.
 
+
+### 🚀 Some Tools I Use
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg" alt="aws" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="aws" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="aws" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain-wordmark.svg" alt="aws" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="aws" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="aws" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-line-wordmark.svg" alt="aws" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="aws" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="aws" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" alt="aws" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="aws" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="aws" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="aws" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="aws" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="aws" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="aws" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-plain-wordmark.svg" alt="aws" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" alt="aws" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="aws" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-plain-wordmark.svg" alt="aws" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="aws" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain-wordmark.svg" alt="aws" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-plain-wordmark.svg" alt="aws" width="25" height="25" />
+</p>
+
 ### 📡 Connect with Me
 
 - LinkedIn: [eliasmantouvalos](https://www.linkedin.com/in/eliasmantouvalos-76963b22)

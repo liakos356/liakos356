@@ -23,13 +23,15 @@ Welcome to my GitHub realm, where code, creativity, and a hint of humor collide.
 
 ### 📈 Projects I'm Proud Of
 
-- **Corebeat Project** ([core-innovation.com/core-beat](https://www.core-innovation.com/core-beat)): Leading a dynamic team on a mission to innovate in React and Flutter.
+- **Corebeat** ([core-innovation.com/core-beat](https://www.core-innovation.com/core-beat)): Leading a dynamic team on a mission to innovate in condition monitoring for industry.
 - **Moses Project** ([moses-h2020.eu](https://moses-h2020.eu)): A 3D Unity venture for machine learning.
 - **Prelude Project** ([prelude-project.eu](https://prelude-project.eu/)): Developing sleek UIs in React for renewable energy solutions.
 - **Dione Project** ([dione-project.eu](https://dione-project.eu/)): Visualizing soil data with interactive maps in React.
-- **Seatedapp** Merchants Portal (React.js)
+- **Seated app** ([seatedapp.app](https://www.seatedapp.app/)) Merchants Portal (React Native)
+- **Seated merchants** ([seatedapp.io](https://www.seatedapp.io/)) Merchants Portal (React.js)
+- **Seated admin portal** ([seatedapp.io](https://www.seatedapp.io/)) Admin Panel (Vue.js)
 - **Radiojar Android Player Generator server** (Appcelerator/NodeJS)
-- **Official Hellenic Post Office App (Appcelerator)
+- **Official Hellenic Post Office App** (Appcelerator)
 
 ### 📚 My Academic & Creative Contributions
 

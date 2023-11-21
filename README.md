@@ -1,44 +1,45 @@
-<h2>Hey 👋, I'm <a href="https://stanleylim.me/">Elias</a></h2>
-<p>I'm currently a software engineer at <strong><a href="https://www.core-innovation.com/">Core Innovation</a></strong> and formerly at <strong><a href="https://www.seatedapp.io/">Seated.app</a></strong> based in 🌁 New York. I am working on some side projects, learning a couple new dishes.</p>
+<h2>Hello World! 🌏 I'm Elias Mantouvalos 👋</h2>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+As a seasoned Senior Frontend Developer at [Core Innovation](https://www.core-innovation.com/) and an alumnus of Seated.app, I thrive in the bustling tech scene of Athens, Greece. My journey in tech has been marked by a deep passion for coding, a knack for leading teams, and a commitment to lifelong learning.
 
-<h2>⚡️ A Few Quick Facts</h2>
-<ul>
+<img align="right" alt="Coding" width="350" src="https://media4.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/liakos356">Github</a>.</li>
+### 🌟 A Bit More About Me
 
-<h2>🚀 Some Tools I Use</h2>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original-wordmark.svg" alt="nodejs" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg" alt="aws" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="aws" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="aws" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain-wordmark.svg" alt="aws" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="aws" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="aws" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-line-wordmark.svg" alt="aws" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="aws" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="aws" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" alt="aws" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="aws" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="aws" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="aws" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="aws" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="aws" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="aws" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-plain-wordmark.svg" alt="aws" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" alt="aws" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="aws" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-plain-wordmark.svg" alt="aws" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="aws" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain-wordmark.svg" alt="aws" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-plain-wordmark.svg" alt="aws" width="25" height="25" />
-</p>
+- 📍 Living in the heart of Piraeus, Attiki, Greece.
+- 🛠️ Specializing in **React, Flutter,** and as a **Tech Lead**.
+- 🎓 Educated in Computer Science at Université de Limoges & Technological Educational Institute of Crete.
+- 🌐 Multilingual in **English**, **Greek**, and **French**.
+- 👨‍💻 Passionately working on side projects and culinary explorations.
+
+### 💻 Tech Stack Deep Dive
+
+- **React**: Expert in crafting dynamic web apps with React. Led the development of robust admin panels and interactive user interfaces at Seated.app, emphasizing reusable components and efficient state management.
+- **Flutter**: Skilled in building cross-platform mobile applications with Flutter. My proficiency lies in creating seamless user experiences that are both functional and aesthetically pleasing.
+- **Tech Lead Experience**: As a tech lead, I've steered projects from conception to deployment, mentoring teams, and ensuring best practices in code quality and agile methodologies.
+- **Unity & C#**: My adventures with Unity and C# have enabled me to delve into the fascinating world of game development and interactive simulations, enhancing my perspective on user engagement and software architecture.
+
+### 📈 Highlighted Projects
+
+- Seatedapp Merchants Portal (React.js)
+- Radiojar Android Player Generator server (Appcelerator/NodeJS)
+- Official Hellenic Post Office App (Appcelerator)
+
+Explore more on my [GitHub](https://github.com/liakos356).
+
+### 🎖️ Publications & Certifications
+
+- Author of several studies on computer graphics, AI, and web accessibility.
+- A strong advocate for continual learning, demonstrated by my active participation in international conferences and advanced certifications.
+
+### 📡 Let's Connect
+
+- LinkedIn: [eliasmantouvalos](https://www.linkedin.com/in/eliasmantouvalos-76963b22)
+- Email: [mandouvalos@gmail.com](mailto:mandouvalos@gmail.com)
+- Facebook: [Elias Mantouvalos](https://www.facebook.com/mandouvalos)
+
+<img alt="Nerdy Graph" src="https://media3.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif">
+
+---
+
+Always excited to collaborate on projects that push technological boundaries. Let's make the digital world more innovative and interactive!

@@ -10,7 +10,7 @@ Welcome to my GitHub realm, where code, creativity, and a hint of humor collide.
 - 💼 Passionate about building engaging web and mobile experiences.
 - 🎓 Constantly learning, with degrees that just scratch the surface.
 - 🗣 Conversing in **English**, **Greek**, and **French**.
-- 🚀 When not coding, I'm likely gaming or watching a good movie.
+- 🚀 When not coding, I'm likely enjoying time with my family or gaming.
 
 ### 💻 Tech & Creativity
 
